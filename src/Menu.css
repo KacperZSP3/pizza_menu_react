@@ -1,0 +1,36 @@
+.menu-item, .promo-item {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    flex-direction: column;
+
+}
+
+.menu-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+}
+
+.menu-item p {
+    margin: 0;
+    align-items: center;
+}
+
+main {
+    padding: 20px;
+    align-items: center;
+}
+
+h2 {
+    color: hotpink;
+    text-align: center;
+}
+
+.description {
+    font-size: 14px;
+    color: #555;
+    margin-top: 5px;
+}
